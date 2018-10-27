@@ -1,5 +1,5 @@
 {
-    "app_id" : "com.moodle.moodlemobile",
+    "app_id" : "com.lmsace.customapp",
     "appname": "Moodle Custom APP",
     "desktopappname": "Moodle Custom Desktop",
     "versioncode" : 3520,
@@ -12,7 +12,7 @@
     "demo_sites": {"student": {"url": "https://school.demo.moodle.net", "username": "student", "password": "moodle"}, "teacher": {"url": "https://school.demo.moodle.net", "username": "teacher", "password": "moodle"}},
     "gcmpn": "694767596569",
     "customurlscheme": "moodlemobile",
-    "siteurl": "https://moodle.lmsace.com",
+    "siteurl": "http://moodle.lmsace.com",
     "multisitesdisplay": "",
     "skipssoconfirmation": false,
     "forcedefaultlanguage": false,
